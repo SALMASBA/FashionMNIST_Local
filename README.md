@@ -22,7 +22,7 @@ Le jeu de données contient **70 000 images** en niveaux de gris de **28×28 pix
 ### Aperçu
 Un exemple des **25 premières images du jeu d’entraînement** peut être affiché avec leurs étiquettes correspondantes.
 
-![image1](en.jpg)
+![image1](en.png)
 
 
 ---
